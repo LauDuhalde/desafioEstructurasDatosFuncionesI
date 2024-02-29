@@ -1,4 +1,4 @@
-##Proyecto: Desafioi Evaluado Estructuras de datos y Funciones I
+##Proyecto: Desafio Evaluado Estructuras de datos y Funciones I
 ##Autor: Laura Duhalde
 
 ##Consideraciones de ejecución:
